@@ -82,4 +82,4 @@ const listToArray = (list) => {
 };
 
 console.log(arrayToList([10, 20, 30]));
-console.log(listToArray(arrayToList([10, 20, 30])));
+console.log(listToArray(arrayToList([10, 20, 30])), [10, 20, 30]);
